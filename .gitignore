@@ -1,10 +1,10 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+/ch*
+*.toml
+*.locl
 
-# Virtual environments
-.venv
+/notebooks
+*.pdf
+/.github
+/.venv
+
+
